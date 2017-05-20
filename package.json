@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/swift89-syntax",
+  "repository": "https://github.com/kelvin13/trinity",
   "license": "Apache 2.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
