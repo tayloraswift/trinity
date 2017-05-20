@@ -1,8 +1,8 @@
 {
-  "name": "swift89-syntax",
+  "name": "trinity-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A syntax theme optimized for the Swift language",
   "keywords": [
     "syntax",
     "theme"
